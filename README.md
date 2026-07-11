@@ -3,6 +3,9 @@
 A Java console-based application for managing student records using Object-Oriented Programming (OOP). The project allows users to perform basic student management operations and demonstrates the use of Java collections and file handling.
 
 ---
+## 📸 Application Screenshot
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-11 030404" src="https://github.com/user-attachments/assets/6788c59d-7edc-4a9e-b5e6-6dfe8c1e5c16" />
 
 ## ✨ Features
 
